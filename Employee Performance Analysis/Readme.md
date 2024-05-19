@@ -15,7 +15,7 @@ Mr Brain, CEO of the **INX Future Inc data analytics and automation solutions** 
 
 ## **Dataset used**
 
-- <a href="https://github.com/Krishnkumar542/INX-Future-Inc-Employee-Performance-Analysis-using-Power-BI/blob/main/INX_Future_Inc_Employee_Performance_Data.xls">INX_Future_Inc_Employee_Performance_Data</a>
+- <a href="https://github.com/manasamrit/PowerBi-Projects/blob/main/Employee%20Performance%20Analysis/INX_Future_Inc_Employee_Performance_Data.xls">INX_Future_Inc_Employee_Performance_Data</a>
 
 
 
@@ -28,7 +28,7 @@ Mr Brain, CEO of the **INX Future Inc data analytics and automation solutions** 
 
 ## **Dashboard**
 
-![Alt text of the image](https://github.com/Krishnkumar542/INX-Future-Inc-Employee-Performance-Analysis-using-Power-BI/blob/main/Employee%20Performance%20-%20Interactive%20Dashboard.png)
+![Alt text of the image](https://github.com/manasamrit/PowerBi-Projects/blob/main/Employee%20Performance%20Analysis/Employee%20Performance%20-%20Interactive%20Dashboard.png)
 
 ## **Project Insight**
 
